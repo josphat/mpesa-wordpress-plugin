@@ -4,7 +4,7 @@ This plugin allows your e-commerce to have an option of paying using M-PESA mobi
 The plugin adds an option on the checkout section for paying through M-PESA (a mobile payment platform).
 
 ## Pre-requirements
-  1. Create an account on [M-pesa Developer Portal](https://developer.mpesa.vm.co.mz/);
+  1. Create an account on [M-pesa Developer Portal](https://developer.safaricom.co.ke/);
   2. Read a little bit the oficial documentation, just in case;
   3. [Clone](https://github.com/josphat/mpesa-wordpress-plugin) or [Download](https://codeload.github.com/josphat/mpesa-wordpress-plugin/zip/master) the zipped plugin 
   
@@ -27,7 +27,7 @@ The plugin adds an option on the checkout section for paying through M-PESA (a m
   ![Image 2](https://github.com/herquiloidehele/mpesa-wordpress-plugin/blob/master/img/image1.PNG?raw=true)
 
 
-#### Note: All this configuration Fields can be found in [M-pesa Developer Portal](https://developer.mpesa.vm.co.mz)
+#### Note: All this configuration Fields can be found in [M-pesa Developer Portal](https://developer.safaricom.co.ke/)
 
 
 ## Aspects to consider when deploying your application
@@ -37,7 +37,7 @@ The plugin adds an option on the checkout section for paying through M-PESA (a m
 
 
 ## License
-This library is release under the [MIT](https://github.com/herquiloidehele/mpesa-woocommerce-plugin/blob/master/LICENSE) License. See [LICENSE file for details](https://github.com/herquiloidehele/mpesa-woocommerce-plugin/blob/master/LICENSE).
+This library is release under the [MIT](https://github.com/josphat/mpesa-woocommerce-plugin/blob/master/LICENSE) License. See [LICENSE file for details](https://github.com/josphat/mpesa-woocommerce-plugin/blob/master/LICENSE).
 
 ## TODO
 * Improve documentation
