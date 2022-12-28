@@ -1,4 +1,4 @@
-# Woocommerce M-pesa Payment Gateway (Vodacom) 
+# Woocommerce M-pesa Payment Gateway (Safaricom) 
 This plugin allows your e-commerce to have an option of paying using M-PESA mobile money service from a WordPress website/application that has WooCommerce plugin installed.
 
 The plugin adds an option on the checkout section for paying through M-PESA (a mobile payment platform).
